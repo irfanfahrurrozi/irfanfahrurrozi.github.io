@@ -1,3 +1,6 @@
 # One Page responsive template
-<h3>cr shrinathnayak[dot]in </h3>
+<h2>
+Personal page of Irfan Fahrurrozi</h2>
+
+<h4>cr shrinathnayak[dot]in </h4>
 
