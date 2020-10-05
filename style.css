@@ -331,10 +331,10 @@ body {
 	background-color: black;
 }
 
-.fa-instagram:hover {
+.fa-envelope:hover {
 	border-radius: 50%;
 	color: white;
-	background-color: #ec3d8f;
+	background-color: #2fb841;
 }
 
 .fa-tumblr:hover {
