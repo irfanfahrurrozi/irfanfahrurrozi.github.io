@@ -61,7 +61,7 @@ body {
 	hr {
 		width: 93%;
 		height: 2px;
-		background-color: gainsboro;
+		background-color: rgb(156, 154, 154);
 		border: 0px;
 	}
 	.subtitle {
@@ -127,7 +127,7 @@ body {
 		padding-left: 4px;
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: darkgrey;
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -195,7 +195,7 @@ body {
 		padding-left: 4px;
 		text-align: center;
 		font-size: 2.8em;
-		color: gainsboro;
+		color: darkgrey;
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -236,7 +236,7 @@ body {
 	hr {
 		width: 93%;
 		height: 2px;
-		background-color: gainsboro;
+		background-color: darkgrey;
 		border: 0px;
 	}
 	.card {
@@ -261,7 +261,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: darkgrey;
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
