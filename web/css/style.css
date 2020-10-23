@@ -3889,13 +3889,14 @@ h6 {
 
 /* line 138, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
 .button-area .border-top-generic {
-  padding: 70px 15px;
+  padding: 50px 50px 170px 15px;
   border-top: 1px dotted #eee;
 }
 
 /* line 146, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
 .button-group-area .genric-btn {
-  align-items: center;
+  
+  
   margin-right: 10px;
   margin-top: 5px;
   margin-bottom: 40px;
@@ -3904,6 +3905,7 @@ h6 {
 /* line 149, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
 .button-group-area .genric-btn:last-child {
   margin-right: 0;
+  margin-left: ;
 }
 
 /* line 155, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
@@ -4031,28 +4033,28 @@ h6 {
 /* line 237, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
 .genric-btn.success {
   color: #fff;
-  background: #4cd3e3;
+  background: #1ed62e;
   border: 1px solid transparent;
 }
 
 /* line 241, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
 .genric-btn.success:hover {
-  color: #4cd3e3;
-  border: 1px solid #4cd3e3;
+  color: #1ed62e;
+  border: 1px solid #1ed62e;
   background: #fff;
 }
 
 /* line 247, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
 .genric-btn.success-border {
-  color: #4cd3e3;
-  border: 1px solid #4cd3e3;
+  color: #1ed62e;
+  border: 1px solid #1ed62e;
   background: #fff;
 }
 
 /* line 251, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
 .genric-btn.success-border:hover {
   color: #fff;
-  background: #4cd3e3;
+  background: #1ed62e;
   border: 1px solid transparent;
 }
 
