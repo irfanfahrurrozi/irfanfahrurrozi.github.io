@@ -3246,7 +3246,7 @@ h3 {
 /* line 43, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_portfolio.scss */
 .portfolio_image_area .single_Portfolio {
   position: relative;
-  margin-bottom: 20px;
+  margin-bottom: px;
   overflow: hidden;
 }
 
@@ -3895,8 +3895,10 @@ h6 {
 
 /* line 146, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
 .button-group-area .genric-btn {
+  align-items: center;
   margin-right: 10px;
-  margin-top: 10px;
+  margin-top: 5px;
+  margin-bottom: 40px;
 }
 
 /* line 149, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
