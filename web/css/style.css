@@ -3889,7 +3889,7 @@ h6 {
 
 /* line 138, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
 .button-area .border-top-generic {
-  padding: 50px 50px 170px 15px;
+  padding: 170px 15px;
   border-top: 1px dotted #eee;
 }
 
@@ -3897,7 +3897,7 @@ h6 {
 .button-group-area .genric-btn {
   
   margin-left: 5px;
-  margin-right: 10px;
+  margin-right: 5px;
   margin-top: 5px;
   margin-bottom: 40px;
 }
