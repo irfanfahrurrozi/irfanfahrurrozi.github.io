@@ -3246,8 +3246,12 @@ h3 {
 /* line 43, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_portfolio.scss */
 .portfolio_image_area .single_Portfolio {
   position: relative;
-  margin-bottom: px;
+  margin-bottom: ;
   overflow: hidden;
+}
+
+.jarak{
+  margin-bottom: 25px;
 }
 
 /* line 47, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_portfolio.scss */
