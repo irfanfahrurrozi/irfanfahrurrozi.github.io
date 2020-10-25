@@ -203,13 +203,13 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <!--<div class="row">
                 <div class="col-xl-12">
                     <div class="more_portfolio text-center">
-                        <a class="line_btn" href="#">More Folio</a>
+                        <a class="line_btn1" href="#">More Folio</a>
                     </div>
                 </div>
-            </div>
+            </div>-->
         </div>
     </div>
     <!--/ portfolio_image_area  -->
@@ -282,7 +282,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="project_text text-center">
-                        <h3>Buat Porfolio Pribadi Kamu</h3>
+                        <h3>Buat Portfolio Pribadi Kamu</h3>
                         <p>Website pribadi digunakan seseorang untuk menunjukkan tingkat keprofesionalannya.<br>
                         Hal ini menambah kesan yang sangat impresif kepada clien / customer tentunya.<br>
                         Selain itu, website pribadi bisa digunakan sebagai portfolio kamu yang bisa diakses dan dilihat oleh siapa saja. <br>
@@ -357,7 +357,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="js/jquery.magnific-popup.min.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/gijgo.min.js"></script>
-
+    <script src="js/jquery.simpleLoadMore.js"></script>
     <!--contact js-->
     <script src="js/contact.js"></script>
     <script src="js/jquery.ajaxchimp.min.js"></script>
@@ -366,6 +366,13 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="js/mail-script.js"></script>
 
     <script src="js/main.js"></script>
+
+    <script>
+        $('.row').simpleLoadMore({
+          item: '.jarak',
+          count: 4
+        });</script>
+
 </body>
 
 </html>

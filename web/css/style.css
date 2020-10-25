@@ -637,10 +637,28 @@ h3 {
   text-transform: capitalize;
   padding: 13px 34px;
   font-weight: 600;
+  float: right;
 }
 
 /* line 205, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_btn.scss */
 .line_btn:hover {
+  background: #615CFD;
+  color: #fff;
+}
+
+.line_btn1 {
+  display: inline-block;
+  font-size: 15px;
+  color: #615CFD;
+  border: 1px solid #615CFD;
+  text-transform: capitalize;
+  padding: 13px 34px;
+  font-weight: 600;
+  float: right; 
+}
+
+/* line 205, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_btn.scss */
+.line_btn1:hover {
   background: #615CFD;
   color: #fff;
 }
