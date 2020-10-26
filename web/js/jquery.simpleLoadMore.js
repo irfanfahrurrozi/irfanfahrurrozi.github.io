@@ -12,7 +12,7 @@
     var settings = $.extend({
       count: 5,
       itemsToLoad: 5,
-      btnHTML: '<a class="line_btn container text-center" href="#">More Folio</a>',
+      btnHTML: '<a class="line_btn container text-center" href="#">Desain Lainnya</a>',
       btnText: '',
       item: '',
       cssClass: 'load-more',
