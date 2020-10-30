@@ -386,12 +386,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 							</div>
 						</div>
 					</div>
-
+<!--
 					<div class="row">
 						<div class="col-md-12 animate-box">
 							<p><a href="mailto:mail@fahrurrozi.my.id" class="btn btn-primary btn-lg btn-load-more">Send Email <i class="icon-paperplane"></i></a></p>
 						</div>
-						
+-->					
 					</div>
 				</div>
 			</section>
@@ -399,7 +399,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 			<script>
 				$('.some-list-1').simpleLoadMore({
 				  item: 'div',
-				  count: 2
+				  count: 4
 				});
 			</script>
 
@@ -512,6 +512,13 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<script src="js/owl.carousel.min.js"></script>
 	<!-- Counters -->
 	<script src="js/jquery.countTo.js"></script>
+	<script src="js/jquery.simpleLoadMore.js"></script>
+  <!-- <script src="jquery.simpleLoadMore.js"></script> -->
+  <script>
+    $('.some-list-1').simpleLoadMore({
+      item: '.animate-box',
+      count: 2
+	});</script>
 	
 	
 	<!-- MAIN JS -->
