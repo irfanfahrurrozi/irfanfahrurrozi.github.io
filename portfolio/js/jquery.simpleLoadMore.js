@@ -12,7 +12,7 @@
     var settings = $.extend({
       count: 5,
       itemsToLoad: 5,
-      btnHTML: '<a href="#" class="btn btn-primary btn-lg btn-load-more">Load More <i class="icon-reload"></i></a>',
+      btnHTML: '<button href="#" class="btn btn-primary btn-lg btn-load-more" data-animate-effect="fadeInTop">Load More <i class="icon-reload"></i></button>',
       btnText: '',
       item: '',
       cssClass: 'load-more',
