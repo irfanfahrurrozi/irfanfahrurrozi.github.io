@@ -8,7 +8,7 @@
 body {
 	background-image: url('z.jpg');
     background-size:auto;
-    background-repeat: cover;
+    background-repeat: 100% 100%;
 	font-family: 'Muli', sans-serif;
 	display: flex;
 	align-items: center;
