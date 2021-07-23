@@ -6,7 +6,9 @@
 
 
 body {
-	background-image: linear-gradient(45deg, #7175da, #9790F2);
+	background-image: url('z.jpg');
+    background-size:auto;
+    background-repeat: no-repeat;
 	font-family: 'Muli', sans-serif;
 	display: flex;
 	align-items: center;
@@ -109,6 +111,15 @@ body {
 	bottom: 30px;
 	right: 30px;
 	letter-spacing: 1px;
+}
+
+.btn:hover {
+	background-color: #ffffff;
+	color: #001F61;
+}
+
+.btn:focus {
+	outline: none;
 }
 
 /* SOCIAL PANEL CSS */
